@@ -130,13 +130,6 @@ En el shell sh hay algunos subcomandos.
 <p align="centro">
   <img src="Capturas de pantalla/6.JPG" width="800"/>
 </p>
--------------------------------------------------- -------------------------------------------------- --------------------------
-
-* Algunos comandos del intérprete.
-<p align="centro">
-  <img src="Capturas de pantalla/1.JPG" width="800"/>
-</p>
--------------------------------------------------- -------------------------------------------------- --------------------------
 
 ## Partidarios:
 [![rayep](https://avatars.githubusercontent.com/u/40718616?v=4&s=60)](https://github.com/rayep)
