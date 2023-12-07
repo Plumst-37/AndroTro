@@ -1,10 +1,10 @@
 **Descarga de responsabilidad**: este software está destinado únicamente a fines educativos. No soy responsable de ningún uso malicioso de la aplicación.
 # AndroTRO 
 
-[![Twitter Follow](https://twitter.com/karma9874)
-[![GitHub followers](https://github.com/karma9874)
 
-AndroTRO es una herramienta diseñada para controlar el sistema Android de forma remota y recuperar información del mismo. AndroTRO es una aplicación cliente/servidor desarrollada en Java Android para el lado del cliente y el Servidor está en Python.
+[![GitHub followers](https://github.com/Plumst-37)
+
+AndroTro es una herramienta diseñada para controlar el sistema Android de forma remota y recuperar información del mismo. AndroTro es una aplicación cliente/servidor desarrollada en Java Android para el lado del cliente y el Servidor está en Python.
 
 ##### AndroTRO funcionará en dispositivos desde Android 4.1 (Jelly Bean) hasta Android 9.0 (Oreo) (API 16 a API 28)
 
@@ -12,8 +12,8 @@ AndroTRO es una herramienta diseñada para controlar el sistema Android de forma
 
 ## Screenshots
 
-![AndroTRO](Capturas de pantalla/5.jpg "AndroTRO en acción")
-## Características de AndroTRO
+![AndroTro](Capturas de pantalla/5.jpg "AndroTro en acción")
+## Características de AndroTro
 * Puerta trasera completamente persistente
 * ~~Totalmente indetectable por cualquier escáner antivirus [VirusTotal](https://www.virustotal.com/gui/file/e900b5d37ad8c8f79ca000b148253af04696a85fdfc245861cfb226dd86562df/detection)~~
 * Icono invisible al instalar
@@ -29,8 +29,8 @@ AndroTRO es una herramienta diseñada para controlar el sistema Android de forma
 
 ## Instalacion
 ```
-git clone https://github.com/karma9874/AndroRAT.git
-cd AndroRAT
+git clone https://github.com/Plumst-37/AndroTro.git
+cd AndroTro
 pip install -r requirements.txt
 ```
 #### Nota:
