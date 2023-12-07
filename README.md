@@ -128,11 +128,9 @@ En el shell sh hay algunos subcomandos.
 
 * Generando APK
 <p align="centro">
-  <img src="Capturas de pantalla/6.JPG" width="800"/>
+  <img src="Screenshots/6.JPG" width="800"/>
 </p>
 
-## Partidarios:
-[![rayep](https://avatars.githubusercontent.com/u/40718616?v=4&s=60)](https://github.com/rayep)
 
 ## HACER
 * ~~ Soporte de Ngrok ~~
