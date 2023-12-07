@@ -12,7 +12,7 @@ AndroTro es una herramienta diseñada para controlar el sistema Android de forma
 
 ## Screenshots
 
-![AndroTro](Screenshots/5.jpg "AndroTro en acción")
+![AndroTro](Screenshts/5.jpg "AndroTro en acción")
 ## Características de AndroTro
 * Puerta trasera completamente persistente
 * ~~Totalmente indetectable por cualquier escáner antivirus [VirusTotal](https://www.virustotal.com/gui/file/e900b5d37ad8c8f79ca000b148253af04696a85fdfc245861cfb226dd86562df/detection)
