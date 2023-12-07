@@ -133,6 +133,5 @@ En el shell sh hay algunos subcomandos.
 
 
 ## HACER
-* ~~ Soporte de Ngrok ~~
 * Configurar multicliente
 * Agregar comando de captura de pantalla
