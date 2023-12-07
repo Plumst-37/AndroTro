@@ -2,7 +2,7 @@
 # AndroTRO 
 
 
-[![GitHub followers](https://github.com/Plumst-37)
+[![GitHub followers](https://github.com/Plumst-37)]
 
 AndroTro es una herramienta diseñada para controlar el sistema Android de forma remota y recuperar información del mismo. AndroTro es una aplicación cliente/servidor desarrollada en Java Android para el lado del cliente y el Servidor está en Python.
 
